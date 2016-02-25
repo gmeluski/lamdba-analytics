@@ -1,0 +1,21 @@
+{
+  "name": "analytics-lambda",
+  "version": "1.0.0",
+  "description": "Use Lambda for analytics dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^2.1.7"
+  },
+  "devDependencies": {
+    "googleapis": "^2.1.7"
+  },
+  "bundledDependencies": [
+    "googleapis"
+  ]
+
+}
